@@ -24,6 +24,9 @@ It is a Remote Access Trojan made by me for Windows environment. Its staged and 
 
 It is undetectable by any standard Antivirus. This Malware is written in C++ which allows it to execute with great access to the memory and hence providing the potential for efficient execution, low resource usage, and access to low-level system functions.
 
+**Technical Documentation:** [Remote Access Trojan](https://arthmaurya.com/malware/development/Remote-Access-Trojan)
+
+
 ## Working
 So this RAT is staged in nature, it consists of 3 main stages and different sub-stages depending on the payload.
 ```markdown
